@@ -1,0 +1,18 @@
+---
+:id: 211917273
+:submitters:
+- :name: Sparsh Jain
+  :email: mt1221917@maths.iitd.ac.in
+- :name: Abhineet Singh
+  :email: mt1221736@maths.iitd.ac.in
+- :name: Arnav Tiwari
+  :email: mt1221267@maths.iitd.ac.in
+- :name: Anish Kumar
+  :email: ee1221708@ee.iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-11-12 16:00:02.426852000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-11-12 08:00:02.426852000 Z
+:status: processed
+:score: 50.0
